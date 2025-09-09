@@ -8,15 +8,8 @@ Este documento especifica os requisitos funcionais e não funcionais do sistema 
 ### 1.2 Escopo
 O sistema permite o cadastro e a organização de times, campeonatos, rodadas e partidas, além de oferecer uma tabela de classificação automática e diversas funcionalidades para acompanhar o desempenho dos times.
 
-### 1.3 Definições, Acrônimos e Abreviações
-Lista de termos utilizados.  
-- **SIGAA**: Sistema Integrado de Gestão de Atividades Acadêmicas.  
-- **Usuário**: Aluno, professor ou administrador.
-
-### 1.4 Referências
-Lista de documentos ou links usados como base.  
-- IEEE 830 – Padrão para especificação de requisitos de software.  
-- Manual da organização.  
+### 1.3 Referências 
+- IEEE 830 – Padrão para especificação de requisitos de software.   
 
 ---
 
@@ -27,6 +20,7 @@ O Software vai se dividir em duas grandes partes (Front e Back) que se comunicam
  
 
 ### 2.2 Funções do Produto
+- Criar e registrar conta de usuário.
 - Cadastrar, consultar e listar times.  
 - Criar campeonatos e associar times.  
 - Criar rodadas e partidas.  
@@ -223,6 +217,7 @@ Inserir imagens ou links para protótipos de tela.
 ## 9. Anexos
 Incluir diagramas UML, wireframes, ou qualquer material adicional.
 
+## 10. Versionamento 
 | Versão | Autor |Descrição | Data |
 | - | - | - | - |
 | 1.0 | Luana Medeiros | Criação do documento | 07/09/2025 |
