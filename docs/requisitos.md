@@ -215,9 +215,7 @@ Inserir imagens ou links para protótipos de tela.
 ---
 
 ## 9. Anexos
-Incluir diagramas UML, wireframes, ou qualquer material adicional.
 
-## 10. Versionamento 
-| Versão | Autor |Descrição | Data |
-| - | - | - | - |
-| 1.0 | Luana Medeiros | Criação do documento | 07/09/2025 |
+- **Diagrama UML:**
+  ![Diagrama UML](https://github.com/Projeto-ApitaAi/ApitaAi-Docs/blob/main/docs/diagrams/UML_ApitaAi.drawio.png)
+
